@@ -1,5 +1,9 @@
 # [AngularStrap](http://mgcrea.github.io/angular-strap)
 
+Patched by La Belle Assiette:
+
+* Export the compat build instead of the default one.
+
 [![Bower Version](http://img.shields.io/bower/v/angular-strap.svg?style=flat)](https://github.com/mgcrea/angular-strap/releases) [![status](https://img.shields.io/badge/status-deprecated-red.svg)](https://github.com/mgcrea/angular-strap/issues/2256) [![Build Status](http://img.shields.io/travis/mgcrea/angular-strap/master.svg?style=flat)](http://travis-ci.org/mgcrea/angular-strap)
 
 [![Banner](http://mgcrea.github.io/angular-strap/images/snippet.png)](http://mgcrea.github.io/angular-strap)
